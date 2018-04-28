@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/c++,python,windows,visualstudio
 
-# Custom Field for Visual Studio
+# Custom Field
+*.txt
 *.sln
 *.vcxproj
 *.vcxproj.filters
