@@ -6,4 +6,4 @@
 ## Index
 ### 1st
 * [1969번 : DNA](https://github.com/njw1204/LA-solutions/blob/master/(BOJ%201969)%20DNA/Solution.md)  
-
+* [5546번 : 파스타](https://github.com/njw1204/LA-solutions/blob/master/(BOJ%205546)%20%ED%8C%8C%EC%8A%A4%ED%83%80/Solution.md)
